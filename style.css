@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Benson Tiong | Portfolio</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <header>
+
+        <h1>Benson Tiong</h1>
+
+        <p>Student • Programmer • Environmental Enthusiast</p>
+
+        <a href="#about" class="button">Learn More</a>
+
+    </header>
+
+    <section id="about">
+
+        <h2>About Me</h2>
+
+        <p>
+            Hello! I'm Benson from Sarawak, Malaysia.
+            I enjoy programming, robotics, Scratch game development,
+            environmental projects, and learning new technologies.
+        </p>
+
+    </section>
+
+    <section>
+
+        <h2>My Skills</h2>
+
+        <div class="cards">
+
+            <div class="card">
+                <h3>💻 Programming</h3>
+                <p>HTML, CSS, Scratch, Python</p>
+            </div>
+
+            <div class="card">
+                <h3>🤖 Robotics</h3>
+                <p>STEM Projects & Physical Computing</p>
+            </div>
+
+            <div class="card">
+                <h3>🌱 Environment</h3>
+                <p>Climate Action & Sustainability</p>
+            </div>
+
+        </div>
+
+    </section>
+
+    <section>
+
+        <h2>Projects</h2>
+
+        <div class="cards">
+
+            <div class="card">
+
+                <h3>Scratch Games</h3>
+
+                <p>
+                    Interactive educational games developed with Scratch.
+                </p>
+
+            </div>
+
+            <div class="card">
+
+                <h3>Climate Action</h3>
+
+                <p>
+                    Scratchathon project promoting environmental awareness.
+                </p>
+
+            </div>
+
+            <div class="card">
+
+                <h3>Portfolio Website</h3>
+
+                <p>
+                    My first website hosted on GitHub Pages.
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <section>
+
+        <h2>Contact</h2>
+
+        <p>Email: your@email.com</p>
+
+        <p>GitHub:
+            <a href="https://github.com/bensontiong" target="_blank">
+                github.com/bensontiong
+            </a>
+        </p>
+
+    </section>
+
+    <footer>
+
+        © 2026 Benson Tiong
+
+    </footer>
+
+</body>
+
+</html>
